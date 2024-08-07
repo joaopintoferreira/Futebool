@@ -1,0 +1,22 @@
+/* Configuração do rodapé */
+#rodape {
+    /* Posicionamento */
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+    /* Cor de fundo */
+    background-color: rgb(137, 33, 20);
+
+    /* Cor da fonte */
+    color: white;
+
+    /* Tamanho da fonte */
+    font-size: 16px;
+
+    /* Centralizando o texto */
+    text-align: center;
+
+    /* Espaçamento interno */
+    padding: 0 ;
+}

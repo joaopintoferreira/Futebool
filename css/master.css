@@ -1,0 +1,12 @@
+/* Configuração geral da página */
+body {
+    /* Muda a cor do fundo da página */
+    /**background-color: rgb(206, 139, 84);**/
+    background-color: rgb(238,232,170);
+
+    /* Fonte */
+    font-family: Candara, Helvetica, sans-serif; 
+
+    /* Margem zerada */
+    margin: 0;
+}
